@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4YLJ0uRhUK7jNDihwvGuwazOn8OV7hPokysxKTNV0fhgRsZonnxhmdpfRFoyHVhrJ+NCWn4pd+HSwM5lejl0XQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\broke\\source\\repos\\fsharptutorial\\FirstIonideProject\\FirstIonideProject.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\broke\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
